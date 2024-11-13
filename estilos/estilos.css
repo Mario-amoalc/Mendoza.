@@ -67,3 +67,10 @@ iframe{
     border: 5px solid rgb(119, 119, 119);
     border-radius: 10px;
 }
+@media screen and (min-width:800px) {
+    .p1,.p2,.p3{ 
+        display: block;
+        width:100%
+    }
+    
+}
